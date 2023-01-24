@@ -1,0 +1,8 @@
+body {
+    background-color: aquamarine;
+    font-family: 'Lato', 'Verdana', sans-serif;
+}
+
+#nav li {
+    color: red;
+}
